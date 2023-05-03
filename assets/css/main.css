@@ -2633,3 +2633,8 @@ input, select, textarea {
 				}
 
 	}
+
+	.elemento-a-modificar {
+		pointer-events: none; 
+		cursor: default;
+	}
